@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "events": "^3.3.0",
+    "express": "^4.17.1",
+    "jssha": "^3.2.0",
+    "moment-timezone": "^0.5.34",
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.4.0"
+  }
+}
